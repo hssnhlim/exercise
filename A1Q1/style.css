@@ -1,0 +1,60 @@
+* {
+  background: lightblue;
+}
+
+header h1 {
+  text-align: center;
+  color: #0405de;
+}
+
+.type h2 {
+  color: #0405de;
+}
+
+.type ul {
+  margin-bottom: 1rem;
+}
+
+#italic {
+  font-style: italic;
+}
+.table
+{
+  margin-top: 3.5rem ;
+}
+
+.table table {
+  width: 18rem;
+  text-align: center;
+  color: #0405de;
+  border: 0.1rem solid #0405de;
+  margin-left: 2.5rem;
+}
+
+.table table tr td {
+  border: 0.1rem solid #0405de;
+}
+
+.table table td p {
+  width: 7.3rem;
+  text-align: left;
+}
+
+.table table img {
+  width: 100%;
+  height: 10rem;
+  display: block;
+  object-fit: cover;
+}
+
+.link h4 {
+  margin-left: 2.5rem;
+}
+
+.link ol {
+  margin-left: 2rem;
+}
+
+.link ol li a {
+  color: green;
+}
